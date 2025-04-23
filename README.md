@@ -1,4 +1,4 @@
-# Deep Learning Final Project - Speech Emotion Recognition
+# Deep Learning Project - Speech Emotion Recognition
 
 ## Project Overview
 
